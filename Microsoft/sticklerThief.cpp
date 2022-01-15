@@ -1,5 +1,5 @@
 int FindMaxSum(int arr[], int n)
-    {
+{
         if(n==1){
             return arr[0];
         }
@@ -11,4 +11,4 @@ int FindMaxSum(int arr[], int n)
             b=c;
         }
         return b;
-    }
+}
