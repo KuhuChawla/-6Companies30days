@@ -5,4 +5,4 @@
 ## MileStone 3 : Microsoft ✅
 ## MileStone 4 : Adobe ✅
 ## MileStone 5 : Intuit ✅
-## MileStone 6 : Walmart
+## MileStone 6 : Walmart ✅
